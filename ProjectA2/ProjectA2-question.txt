@@ -1,0 +1,4 @@
+Which operation is used to find ZIPCode of each crime: spatial join, union, group by?
+Spatial Join
+Union
+Group By
